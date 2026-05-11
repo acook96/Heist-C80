@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rWmmS9sJlTc=",
+  "dgSpecHash": "aT0bEQJF9p4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Austin\\workspace\\csharp\\heist\\heist.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Krisc\\workspace\\csharp\\Heist-C80\\heist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krisc\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Krisc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Krisc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Krisc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
+  ],
   "logs": []
 }
